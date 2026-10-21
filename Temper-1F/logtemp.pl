@@ -7,7 +7,7 @@
 # you can plot the results using the accompanying shell/gnuplot script
 #
 # Stephane Plaisance (VIB-NC+BITS) 2016/08/02; v1.0
-# visit our Git: https://github.com/BITS-VIB
+# visit our Git: https://github.com/splaisan/geek-tools
 
 use strict;
 use warnings;

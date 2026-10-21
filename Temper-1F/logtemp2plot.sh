@@ -5,7 +5,7 @@
 ## from http://askubuntu.com/questions/701986/how-to-execute-commands-in-gnuplot-using-shell-script
 # Stephane Plaisance (VIB-NC+BITS) 2016/08/05; v1.0
 #
-# visit our Git: https://github.com/BITS-VIB
+# visit our Git: https://github.com/splaisan/geek-tools
 
 # check parameters for your system
 version="1.0, 2016_08_05"
